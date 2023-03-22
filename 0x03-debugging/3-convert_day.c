@@ -33,7 +33,7 @@ break;
 case 8:
 day = 212 + day;
 break;
-ase 9:
+case 9:
 day = 243 + day;
 break;
 case 10:
